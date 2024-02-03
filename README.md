@@ -1,8 +1,10 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a task to show how we can use redux, in this if we click on ADD count will be increased and the product amount will be calculated and if we click on REMOVE count will be decreased and amount will be deducted as per the count.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## To Run Application
+.
+npm run dev
+.
+- [Live site](https://main--coruscating-tulumba-3a0fd8.netlify.app/)
